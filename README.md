@@ -7,7 +7,8 @@
 <p align="center">
   <strong>Work with NineStarsGroup</strong><br/>
   <a href="mailto:groupofstars36145@gmail.com">groupofstars36145@gmail.com</a> ·
-  <a href="https://ninestarsgroup.infinityfree.me/">Portfolio</a>
+  <a href="https://ninestarsgroup.infinityfree.me/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/company/nine-stars-group/">LinkedIn</a>
 </p>
 
 ## ERP (Enterprise Resource Planning) AI Agent Backend
@@ -131,6 +132,7 @@ This repository is provided for demonstration and client evaluation purposes onl
 For commercial licensing, custom development, or collaboration inquiries, contact:
 - Email: groupofstars36145@gmail.com
 - Portfolio: https://ninestarsgroup.infinityfree.me/
+ - LinkedIn: https://www.linkedin.com/company/nine-stars-group/
 
 
 ### Work with NineStarsGroup
@@ -138,5 +140,6 @@ Looking to build ERP and AI automation solutions? We take on projects end-to-end
 
 - Email: groupofstars36145@gmail.com
 - Portfolio: https://ninestarsgroup.infinityfree.me/
+- LinkedIn: https://www.linkedin.com/company/nine-stars-group/
 
 Reach out to discuss your project and how we can help.

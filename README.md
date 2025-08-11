@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ninestarsgroup.infinityfree.me/">
-    <img src="logo.jpeg" alt="NineStarsGroup – ERP AI Agent" width="420" />
+    <img src="logo.jpeg" alt="NineStarsGroup – ERP AI Agent" width="100%" />
   </a>
 </p>
 

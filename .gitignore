@@ -1,0 +1,81 @@
+#SQL files
+*.sql
+.specstory/
+docs/
+scripts/
+.cursorindexingignore
+How it works.md
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from pyinstaller
+#  to be used for packaging
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.coverage.*
+.pytest_cache/
+nosetests.xml
+coverage.xml
+# Environments
+.env
+.env/
+.venv/
+.env.bak
+.venv.bip
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python cache files
+*.pyc
+*.pyo

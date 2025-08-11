@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+pandas>=2.0.0
+openpyxl>=3.1.0
+psycopg[binary]
+sqlalchemy
+openai
+langgraph
+pinecone

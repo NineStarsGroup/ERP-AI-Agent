@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>Work with NineStarsGroup</strong><br/>
+  <a href="mailto:groupofstars36145@gmail.com">groupofstars36145@gmail.com</a> ·
+  <a href="https://ninestarsgroup.infinityfree.me/">Portfolio</a>
+</p>
+
 ## ERP (Enterprise Resource Planning) AI Agent Backend
 
 FastAPI backend for an ERP AI Agent using LangGraph and LangChain. The agent answers business questions by retrieving focused schema/business context from Pinecone, validating against live PostgreSQL schema, generating secure SQL, optionally performing KPI calculations, and returning results in multiple formats.
